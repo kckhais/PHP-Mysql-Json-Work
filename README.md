@@ -1,7 +1,7 @@
-# PHP-Mysql-Json-Work
-
-Simple Movie Website Using PHP, MySql, Json
+# Simple Movie Website Using PHP, MySql, Json
 
 in here, we can add movies, search any movies
 
-first we need to add the db file to our server, then copy the files to your development folder.
+1. we need to add the movie.sql file to your DB server
+2. Then copy the files to your development folder.
+3. Its Done.
