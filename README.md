@@ -24,6 +24,9 @@ In here, we can add movies, search any movies
 ```
 ![image](https://user-images.githubusercontent.com/52489385/133439671-4af74e8d-a5c8-4165-a14c-dcc048247946.png)
 
+```bash
+After Searching a Movie
+```
 
 ![image](https://user-images.githubusercontent.com/52489385/133440000-a089506d-97fe-4fe4-8ee8-49893f2c355f.png)
 
