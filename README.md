@@ -1,6 +1,6 @@
 # Simple Movie Website Using PHP, MySql, Json
 
-In here, we can add movies, search any movies
+In here, we can add, search any movies and view all data by json format using api.
 
 1. Add the "movie.sql" file to your DB server
 2. Then copy the files to your development folder.
